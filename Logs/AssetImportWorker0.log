@@ -137,3 +137,4 @@ Received Import Request.
 Start importing Assets/C#/Run.cs using Guid(930ebd68345ee054683f605817607f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f41bfb721d0f8b77e0e0506b4f5683e0') in 0.139906 seconds 
   Import took 0.149509 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
