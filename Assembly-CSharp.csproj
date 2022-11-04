@@ -54,12 +54,13 @@
   <ItemGroup>
      <Compile Include="Assets\C#\fire.cs" />
      <Compile Include="Assets\C#\Run.cs" />
+     <Compile Include="Assets\C#\Setting.cs" />
+     <Compile Include="Assets\C#\Base.cs" />
      <Compile Include="Assets\C#\Robot.cs" />
+     <Compile Include="Assets\C#\Explosion.cs" />
      <Compile Include="Assets\C#\View.cs" />
      <Compile Include="Assets\C#\SentryMove.cs" />
      <Compile Include="Assets\C#\Dispatcher.cs" />
-     <Compile Include="Assets\C#\Base.cs" />
-     <Compile Include="Assets\Explosion.cs" />
  <Reference Include="UnityEngine">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.22f1c1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>
